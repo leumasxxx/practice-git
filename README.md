@@ -1,2 +1,3 @@
 # Welcome to Samuel's GIT
-## This is an update to the README file
+## My name is Alabi Samuel a web developer from Nigeria 
+
